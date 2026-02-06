@@ -1,0 +1,21 @@
+# Compiled binaries
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+bin/
+obj/
+
+# Editor swap/backup files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
